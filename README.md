@@ -1,5 +1,6 @@
 # Danmaku-De-annoymous
 A simple webpage to dig out some Keyboard Man
+根据视频地址和评论找出发言用户的ID
 
 ## Fancy, but how does it works?
 Let me try to put this in human language.
